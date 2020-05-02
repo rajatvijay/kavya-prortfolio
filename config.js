@@ -19,10 +19,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Kavya Vijay',
@@ -30,14 +30,14 @@ module.exports = {
     bio: 'A blog by Kavya Vijay',
     contacts: {
       email: 'kavyavijay0108@gmail.com',
-      facebook: 'https://www.instagram.com/kavya_vijay_01/',
+      facebook: 'kavya_vijay_01/',
       telegram: '',
-      twitter: 'https://twitter.com/kavyavijay0108',
+      twitter: 'kavyavijay0108',
       github: '',
       rss: '',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/kavya-vijay-75b397135/',
-      instagram: 'https://www.instagram.com/kavya_vijay_01/',
+      linkedin: 'kavya-vijay-75b397135/',
+      instagram: 'kavya_vijay_01/',
       line: '',
       gitlab: '',
       weibo: '',
