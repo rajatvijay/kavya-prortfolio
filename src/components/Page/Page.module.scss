@@ -18,6 +18,7 @@
 
   &__body {
     font-size: $typographic-base-font-size;
+    text-align: justify;
     @include line-height(1);
     @include margin(0, 0, 1);
   }
