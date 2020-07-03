@@ -1,7 +1,7 @@
 ---
 title: About
 slug: about
-draft: true
+draft: false
 ---
  ---
 template: page
