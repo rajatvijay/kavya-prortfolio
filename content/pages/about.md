@@ -1,3 +1,8 @@
+---
+title: About
+slug: about
+draft: true
+---
  ---
 template: page
 title: About me
