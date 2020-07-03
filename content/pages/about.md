@@ -1,6 +1,6 @@
 ---
 title: About
-slug: about
+slug: pages/about
 draft: false
 ---
  ---
