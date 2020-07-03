@@ -1,6 +1,6 @@
 ---
 title: About
-slug: pages/about
+slug: /pages/about
 draft: false
 ---
  ---
